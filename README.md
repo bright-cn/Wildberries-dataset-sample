@@ -1,4 +1,4 @@
-# Wildberries-dataset-sample
+# Wildberries 数据集样本
 
 <h2>包含 1001 款 Wildberries 商品的示例数据集</h2>
 
